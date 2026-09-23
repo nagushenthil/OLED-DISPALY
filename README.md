@@ -1,6 +1,7 @@
-# OLED-DISPALY
-## AIM: Display Front Left Door Status on the OLED using I2C
----
+# OLED-DISPLAY
+## AIM
+Display Front Left Door Status on the OLED using I2C
+
 
 ## Apparatus Required
 
@@ -46,3 +47,4 @@
 ## Result
 
 The **Front Left Door status was successfully displayed on the OLED using I2C communication**. The OLED displayed **"Front Left Door: OPEN"** when the door was open and **"Front Left Door: CLOSED"** when the door was closed, confirming successful GPIO input and I2C OLED operation.
+
